@@ -1,7 +1,3 @@
-# CMTA
-This is the official code for ``CMTA: Leveraging Cross-Modal Temporal Artifacts for Generalizable AI-Generated Video Detection''
-
-
 ### [CMTA: Leveraging Cross-Modal Temporal Artifacts for Generalizable AI-Generated Video Detection](https://arxiv.org/abs/2605.00630)
 Official PyTorch implementation of the paper: **"CMTA: Leveraging Cross-Modal Temporal Artifacts for Generalizable AI-Generated Video Detection"**.
 
